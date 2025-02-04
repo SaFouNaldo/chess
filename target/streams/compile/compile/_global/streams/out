@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E040] Syntax Error: C:\Users\Hamid\Desktop\desk\MyProjects\chess\chess\src\main\scala\Logic\ChessGrid.scala:35:8 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m35 |[0m        [33mif[0m (cell.column == [31m'h'[0m) println()[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m        ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m        ')' expected, but 'if' found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

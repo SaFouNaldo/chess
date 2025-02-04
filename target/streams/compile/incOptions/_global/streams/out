@@ -1,0 +1,41 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\Hamid\Desktop\desk\MyProjects\chess\chess\target\scala-3.3.0\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChessGrid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cell.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChessGrid.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cell.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChessGrid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cell.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChessGrid.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cell.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChessGrid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cell.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChessGrid.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Color$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cell.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\Hamid\Desktop\desk\MyProjects\chess\chess\target\scala-3.3.0\classes.bak[0m
